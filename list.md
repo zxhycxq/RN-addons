@@ -5,4 +5,4 @@ IOS表单处理 https://github.com/gcanti/tcomb-form-native
 
 nav  https://github.com/react-native-community/react-native-navbar
 
-<Video /> https://github.com/react-native-community/react-native-video
+`<Video />` https://github.com/react-native-community/react-native-video
